@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "特者生存ワンダラダー！！",
+  "base_artist": "天音かなた",
+  "createdAt": "2025-12-04T11:45:57.592565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "特者生存ワンダラダー!!",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/01_特者生存ワンダラダー!!_天音かなた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "特者生存ワンダラダー!! （Twilight ver.）",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/02_特者生存ワンダラダー!!_(Twilight_ver.)_天音かなた.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "特者生存ワンダラダー!!",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_特者生存ワンダラダー!!_天音かなた.txt"
+    }
+  ]
+}
